@@ -28,9 +28,11 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,expressjs,nestjs,nextjs,tailwindcss,bootstrap,mysql,mongodb,git,github,vscode,figma,java&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,expressjs,nestjs,nextjs,tailwindcss,bootstrap,mysql,mongodb,git,github,vscode,figma,java,jest,aws,docker&perline=12" />
   </a>
 </p>
+
+<p>Ademas de arquitecturas de codigo</p>
 <br>
 
 

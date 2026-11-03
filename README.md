@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Ruben Acosta ✨ </h1> 
+<h1 align="center">Hola soy Ruben Acosta ✌️</h1> 
 
 <p align="left">
 
@@ -8,31 +8,30 @@
 <a href = "mailto:1511ruben@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@RubenAcosta16"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Estudiante de Ingeniería en Sistemas
+Estudiante de Ingeniería en Sistemas
 
 
-💻 me gusta programar 😎
-
-📝 desarrollador backend 💪🔥
+📝 desarrollador Fullstack 💪
 
 📫 Contacto: **1511ruben@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!-- <h2 >Tecnologías conocidas👨🏻‍💻</h2> -->
 <!--tech stack icons-->
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,expressjs,nestjs,nextjs,tailwindcss,bootstrap,mysql,mongodb,git,github,vscode,figma,java,jest&perline=12" />
   </a>
 </p>
-
-<p>Ademas de arquitecturas de codigo</p>
+ -->
+ 
+<!-- <p>Ademas de arquitecturas de codigo</p> -->
 <br>
 
 
